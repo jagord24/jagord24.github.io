@@ -4,5 +4,14 @@
   },
   "about.qmd": {
     "about.html": "bc1763b3"
+  },
+  "jets_passing_heatmap.qmd": {
+    "jets_passing_heatmap.html": "41e06f90"
+  },
+  "posts/tidyTuesday2022_11_08.qmd": {
+    "tidyTuesday2022_11_08.html": "6d851ab2"
+  },
+  "tidyTuesday_2022_11_08.qmd": {
+    "tidyTuesday_2022_11_08.html": "9ac3bfbc"
   }
 }

@@ -3,15 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "jagord24.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  title: "Jeffrey Gordon"
+  sidebar:
+    pinned: true
+    align: center
+    style: docked
+    search: true
+    collapse-level: 1
+    
+    contents:
+      - index.qmd
+      - jets_passing_heatmap.qmd
+      - section: "Tidy Tuesday"
+        contents:
+          - tidyTuesday_2022_11_08.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 

@@ -1,4 +1,31 @@
 ---
-title: "index"
-editor: visual
+title: "About Me"
+image: headshot.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - href: https://github.com/jagord24
+      icon: github
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jeffrey-a-gordon/
 ---
+
+# About Me
+
+## Experience
+
+### KatalystDI
+
+*Supply Chain Analyst, Remote*
+
+## Education
+
+#### M.B.A., Business Analytics
+
+*Rensselaer Polytechnic Institute \| Troy, NY*
+
+#### B.S., Industrial Engineering
+
+*Rensselaer Polytechnic Institute \| Troy, NY*

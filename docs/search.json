@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Supply Chain Analyst, Remote\n\n\n\n\n\n\nRensselaer Polytechnic Institute | Troy, NY\n\n\n\nRensselaer Polytechnic Institute | Troy, NY"
+  },
+  {
+    "objectID": "jets_passing_heatmap.html",
+    "href": "jets_passing_heatmap.html",
+    "title": "New York Jets Pass Map 2022",
+    "section": "",
+    "text": "---"
+  },
+  {
+    "objectID": "posts/tidyTuesday2022_11_08.html",
+    "href": "posts/tidyTuesday2022_11_08.html",
+    "title": "Jeffrey Gordon",
+    "section": "",
+    "text": "title: “New York Jets Pass Map 2022”\nauthor: “Jeffrey Gordon”\neditor: visual\n---"
+  },
+  {
+    "objectID": "tidyTuesday_2022_11_08.html",
+    "href": "tidyTuesday_2022_11_08.html",
+    "title": "Radio Stations: Tidy Tuesday Nov 08, 2022",
+    "section": "",
+    "text": "First 10 Rows of State Stations\n    \n    \n  \n  \n    \n      call_sign\n      frequency\n      city\n      licensee\n      format\n      state\n    \n  \n  \n    KGDH-LP\n104.5 FM\nMobile\nMobile Hispanic Education Family Fundation\nSpanish religious\nAlabama\n    KRLE\n89.7 FM\nCarbon Hill\nEducational Media Foundation\nContemporary Christian (K-Love)\nAlabama\n    WAAO-FM\n93.7 FM\nAndalusia\nThree Notch Communications, LLC\nCountry\nAlabama\n    WAAX\n570 AM\nGadsden\niHM Licenses, LLC\nNews/Talk\nAlabama\n    WABD\n97.5 FM\nMobile\nCumulus Licensing LLC\nTop 40 (CHR)\nAlabama\n    WABF\n1480 AM\nMobile\nEternity Media Group WABF\nAdult standards\nAlabama\n  \n  \n    \n      Data: TidyTuesday GitHub Repo\n    \n  \n  \n\n\n\n\n\n\n\n\n\n\n  \n    \n      First 10 Rows of State Stations\n    \n    \n  \n  \n    \n      call_sign\n      facility_id\n      service\n      licensee\n      status\n      details\n    \n  \n  \n    DDKDND\n65483\nFM\nENTERCOM LICENSE, LLC\nLICENSE CANCELLED\nClick for Details\n    DWVXM\n174747\nFM\nVERMONT PUBLIC RADIO\nLICENSE CANCELLED\nClick for Details\n    KAAZ-FM\n63536\nFM\nIHM LICENSES, LLC\nLICENSED\nClick for Details\n    KABQ-FM\n39265\nFM\nIHM LICENSES, LLC\nLICENSED\nClick for Details\n    KABU\n15265\nFM\nDAKOTA CIRCLE TIPI, INC.\nLICENSED\nClick for Details\n    KAFE\n58886\nFM\nSAGA BROADCASTING, LLC\nLICENSED\nClick for Details\n  \n  \n    \n      Data: TidyTuesday GitHub Repo"
+  }
+]

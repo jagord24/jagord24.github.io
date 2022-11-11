@@ -1,0 +1,16 @@
+---
+title: "New York Jets Pass Map 2022"
+author: "Jeffrey Gordon"
+editor: visual
+---
+
+```{r}
+library(tidyverse) # all the things
+# library(ggExtra)   # marginal plots
+# library(ggtext)    # color your text
+# library(patchwork) # combine multiple plots
+# library(paletteer) # get all the color palettes
+# library(scales)    # helper functions from ggplot2
+```
+
+\-\--

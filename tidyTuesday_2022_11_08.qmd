@@ -1,0 +1,46 @@
+---
+title: "Radio Stations: Tidy Tuesday Nov 08, 2022"
+author: "Jeffrey Gordon"
+editor: visual
+---
+
+# Which State Has the Most Radio Stations?
+
+```{r warning=FALSE, echo=FALSE, include=FALSE}
+library(tidyverse)
+library(tidytuesdayR)
+library(gt)
+library(gtExtras)
+```
+
+```{r include=FALSE}
+data <- tt_load('2022-11-08')
+state_stations <- data$state_stations
+station_info <- data$station_info
+```
+
+```{r echo=FALSE}
+state_stations %>%
+  head() %>%
+  gt() %>%
+  tab_header(
+    title = "First 10 Rows of State Stations"
+  ) %>%
+  opt_all_caps() %>%
+  gt_theme_pff() %>%
+  tab_source_note(source_note = "Data: TidyTuesday GitHub Repo")
+
+```
+
+```{r echo=FALSE}
+station_info %>%
+  head() %>%
+  gt() %>%
+  tab_header(
+    title = "First 10 Rows of State Stations"
+  ) %>%
+  opt_all_caps() %>%
+  gt_theme_pff() %>%
+  tab_source_note(source_note = "Data: TidyTuesday GitHub Repo")
+
+```
