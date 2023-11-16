@@ -1,7 +1,7 @@
 ---
 title: 'About Me'
 date: 2023-11-16T13:45:52-05:00
-draft: true
+draft: false
 layout: single
 ---
 
@@ -32,7 +32,7 @@ I'm a data and product professional based in Philadelphia, PA. I am skilled in n
     </span>
 </p>
 
----
+--- 
 
 ## Professional Experience
 
