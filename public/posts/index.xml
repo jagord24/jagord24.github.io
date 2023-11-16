@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jagord24.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing NFL Team Performance, A Streamlit-Powered Exploration</title>
-      <link>https://jagord24.github.io/posts/my-first-post/</link>
+      <link>https://jagord24.github.io/posts/2023-11-10-nfl-performance/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jagord24.github.io/posts/my-first-post/</guid>
+      <guid>https://jagord24.github.io/posts/2023-11-10-nfl-performance/</guid>
       <description>Combining my passion for data analysis and coding, this Python and Streamlit application examines NFL team performance throughout a season. This tool is just the start to providing a sophisticated understanding of the ebbs and flows of an NFL season.
 Key Features: Interactive Chart
 Users can select an NFL team and season to visually assess the cumulative score differential across the entire season.
