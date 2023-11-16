@@ -1,6 +1,6 @@
 ---
 title: "Analyzing NFL Team Performance, A Streamlit-Powered Exploration"
-date: 2023-11-16
+date: 2023-11-10
 draft: false
 ---
 

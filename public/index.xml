@@ -6,7 +6,7 @@
     <description>Recent content on Jeffrey Gordon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jagord24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jagord24.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://jagord24.github.io/about/</link>
@@ -19,7 +19,7 @@
     <item>
       <title>Analyzing NFL Team Performance, A Streamlit-Powered Exploration</title>
       <link>https://jagord24.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jagord24.github.io/posts/my-first-post/</guid>
       <description>Combining my passion for data analysis and coding, this Python and Streamlit application examines NFL team performance throughout a season. This tool is just the start to providing a sophisticated understanding of the ebbs and flows of an NFL season.
