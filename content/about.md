@@ -77,6 +77,7 @@ July 2019 - March 2020
 ## Skills
 
 **Skills**: Data Analysis & Visualization, Supervised Machine Learning, Intermediate Database Design Process Mapping, Value Stream Mapping, Agile/Scrum, S&OP, Scenario Planning, Lean
+
 **Tools**: Python, R, SQL, Advanced Excel, Palantir Foundry, Visio, Airtable, PowerBI, Tableau, Git, Chat GPT, Streamlit
 
 ---
