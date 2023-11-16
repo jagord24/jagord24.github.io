@@ -18,19 +18,9 @@ I'm a data and product professional based in Philadelphia, PA. I am skilled in n
 ## Education
 
 ### Rensselaer Polytechnic Institute
-<p style="text-align:left;">
-    Master's in Business Administration (MBA)    
-    <span style="float:right;">
-        2019
-    </span>
-</p>
+Master's in Business Administration (MBA) *2019*
 
-<p style="text-align:left;">
-    Bachelor of Science in Industrial Engineering
-    <span style="float:right;">
-        2017
-    </span>
-</p>
+Bachelor of Science in Industrial Engineering *2017*
 
 --- 
 
