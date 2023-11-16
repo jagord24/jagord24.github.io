@@ -10,7 +10,7 @@ layout: single
 - **[LinkedIn](https://www.linkedin.com/in/{{site.linkedin_username}})**
 - **[GitHub](https://github.com/{{site.github_username}})**
 
-I'm a data and product professional based in Philadelphia, PA. I am skilled in navigating the intricacies of complex business processes, at the intersection of technology and supply chain. With a background in product managementat KatalystDI and specialized manufacturing at W.L. Gore & Associates,I've contributed to elevating technology products and refining complex manufacturing processes. I bring a strategic, data-driven, mindset to everything I do. 
+I am a data and product Professional based in Philadelphia, PA skilled in navigating the intricacies of complex business processes, at the intersection of technology and supply chain. With a background in product managementat KatalystDI and specialized manufacturing at W.L. Gore & Associates, I have contributed to elevating technology products and refining complex manufacturing processes. I bring a strategic, data-driven, mindset to everything I do.
 
 ---
 
